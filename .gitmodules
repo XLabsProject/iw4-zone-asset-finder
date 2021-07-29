@@ -1,0 +1,3 @@
+[submodule "CommandLineInterface"]
+	path = CommandLineInterface
+	url = https://github.com/LouveSystems/CommandLineInterface
